@@ -1,0 +1,45 @@
+html, body{  
+    width:100%;
+    max-width:auto;
+    height:100%;
+    padding:0;
+    margin:0;
+    
+    align-content:center;
+    justify-content:center;
+}
+#corp{
+    background:url("libra.png")50% 100% no-repeat red ;
+    background-size: contain;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#centro{
+    max-width: 490px;
+    width:90%;
+    height:70%;
+    display:flex;
+    flex-direction: column;
+    background-color: blanchedalmond;
+    border: 5px silver solid;
+    border-radius: 20px;
+    align-items: center;
+}
+div#centro h2{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    text-align: center;
+    }
+img{
+    width:25%;
+    
+}
+a:link{color: black;}
+a:hover{color: white;
+    background-color: black;
+}
+
+#link{font-family: Arial, sans-serif;}
