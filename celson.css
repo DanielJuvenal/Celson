@@ -50,9 +50,9 @@ div#meio{
 #Centro{
     width:50%;
     height: 95%;
-    border: 7px rgb(204, 52, 204) solid;
-    border-top:20px rgb(204, 52, 204) solid;
-    border-bottom:20px rgb(204, 52, 204) solid;
+    border: 7px rgb(110, 44, 0) solid;
+    border-top:20px rgb(110, 44, 0) solid;
+    border-bottom:20px rgb(110, 44, 0) solid;
     background: linear-gradient(transparent,rgb(102, 61, 0)) ;
     float:right;
     border-bottom-left-radius:20px;
