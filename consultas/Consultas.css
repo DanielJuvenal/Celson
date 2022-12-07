@@ -1,0 +1,10 @@
+#formulario{
+    background-color: brown;
+    width:90%;
+    max-width: 500px;
+    height:500px;
+    border: silver 5px solid;
+    border-radius: 20px;
+
+}
+p {color: aliceblue;}
