@@ -52,7 +52,7 @@ div#meio{
     height: 95%;
     border: 7px black solid;
     border-top:20px black solid;
-    border-bottom:20px rgb(110, 44, 0) solid;
+    border-bottom:20px black solid;
     background: linear-gradient(transparent,rgb(102, 61, 0)) ;
     float:right;
     border-bottom-left-radius:20px;
