@@ -1,3 +1,21 @@
+html, body{  
+    width:100%;
+    max-width:auto;
+    height:100%;
+    padding:0;
+    margin:0;
+    
+    align-content:center;
+    justify-content:center;
+}
+#corp{
+    background:url("libra.png")50% 100% no-repeat red ;
+    background-size: contain;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 #formulario{
     background-color: brown;
     width:90%;
